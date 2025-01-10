@@ -1,10 +1,13 @@
 # GifsApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+## crear la API Key e iniciar el proyecto
 
-## Development server
+1) https://giphy.com/ crea una cuenta
+2) https://developers.giphy.com/ -> create an API Key
+3) seleccionar opcion de API
+4) en src/env/env agregar la apiKey en la variable
+5) `npm i` ---> `http://localhost:4200/`
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
