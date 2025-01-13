@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: false,\n  serviceUrl: 'https://api.giphy.com/v1/gifs',\n  apiKey: \"0zaJsSku0FghixK7YL7acMDsGO5HLcns\"\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
