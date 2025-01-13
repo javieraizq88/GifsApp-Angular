@@ -1,5 +1,13 @@
 # GifsApp
 
+## versiones
+
+Angular CLI: v16
+node v20.17.0
+npm v11.0.0
+bootstrap v5.3.0
+Animate.css v4.1.1
+
 ## crear la API Key e iniciar el proyecto
 
 1) https://giphy.com/ crea una cuenta
